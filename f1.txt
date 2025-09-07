@@ -1,1 +1,3 @@
-
+hai this my my forth command 
+used to clone and used to add content 
+using git pull 
